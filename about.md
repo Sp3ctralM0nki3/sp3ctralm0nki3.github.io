@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My journey into cyber security started at the dawn of covid19, after being retrechend I fully emersed myself into the world of cyber security. I since have qualifications in Network+, Server+, CCNA, Security+, CEHv10 and currently stuidying for my OSCP certifcation.
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm currently certifies ISO27001 Lead Implementer but loooking to move into the pentration testing space.
+I'm also active on the following platforms, HackTheBox; TryHackMe and Discord.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+On any of the previously mentioned platforms.
